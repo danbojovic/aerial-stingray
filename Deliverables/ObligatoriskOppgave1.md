@@ -79,11 +79,12 @@ Vi har også muligheten oppe for å jobbe på egenhånd evt. Jobbe med utdelte a
 
 #### Brukerhistorier
 Brukerhistorier for brett:
-Som spiller trenger jeg et brett for å faktisk kunne spille spillet
-Som spiller trenger jeg et brett for å kunne se hvor jeg kan flytte roboten min
+* Som spiller trenger jeg et brett for å faktisk kunne spille spillet
+* Som spiller trenger jeg et brett for å kunne se hvor jeg kan flytte roboten min
+* Som spiller trenger jeg grafisk design på brettet for å se ulike hindringer og mine omgivelser
 
 Brukerhistorie for brikke:
-Som spiller trenger jeg en brikke for å se hvilken robot som er meg og hvor jeg befinner meg 
-Som spiller trenger jeg en retning på brikken for å vite i hvilken retning roboten min går/peker
- 
+* Som spiller trenger jeg en brikke for å se hvilken robot som er meg og hvor jeg befinner meg 
+* Som spiller trenger jeg en retning på brikken for å vite i hvilken retning roboten min går/peker
+* Som spiller trenger jeg grafisk design på brikken for å vite hvilken brikke er meg
 
